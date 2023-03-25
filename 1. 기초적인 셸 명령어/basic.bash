@@ -8,5 +8,6 @@ find ./ -maxdepth 1 -type f #현재 디렉토리에서 깊이를 1로 하여 파
 echo "env" # 출력
 history #실행된 명령어 출력
 file ./basic #해당 파일의 형식을 알려줌
+pwd #현재위치 출력'
 
 
